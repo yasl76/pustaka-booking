@@ -89,7 +89,11 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
+<<<<<<< HEAD
 $autoload['helper'] = array();
+=======
+$autoload['helper'] = array('url');
+>>>>>>> ba0dc7b545abe1b3f8c2b110e81879cc43f93ad0
 
 /*
 | -------------------------------------------------------------------
@@ -132,4 +136,8 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
+<<<<<<< HEAD
 $autoload['model'] = array('ModelUser', 'ModelBuku');
+=======
+$autoload['model'] = array();
+>>>>>>> ba0dc7b545abe1b3f8c2b110e81879cc43f93ad0

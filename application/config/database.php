@@ -78,7 +78,11 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => '',
 	'password' => '',
+<<<<<<< HEAD
 	'database' => 'pustaka',
+=======
+	'database' => '',
+>>>>>>> ba0dc7b545abe1b3f8c2b110e81879cc43f93ad0
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
